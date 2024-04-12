@@ -32,3 +32,11 @@
 </div>
 
 ###
+
+<h2 align="left">My projects</h2>
+
+###
+
+<p align="left">Power BI projects:<br><br>SQL projects:</p>
+
+###
