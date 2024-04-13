@@ -39,4 +39,6 @@
 
 <p align="left">Power BI projects:<br><br>SQL projects:</p>
 
+· https://github.com/lravelb/8-Week-SQL-Challenge-Danny-s-Diner
+
 ###
