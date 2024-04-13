@@ -37,11 +37,11 @@
 
 ###
 
-<p align="left">Power BI projects:</p>
+<p align="left"> 📈Power BI projects:</p>
 
 · prueba
   
-<p align="left">SQL projects:</p>
+<p align="left"> 🔧SQL projects:</p>
 
 · https://github.com/lravelb/8-Week-SQL-Challenge-Danny-s-Diner
 
