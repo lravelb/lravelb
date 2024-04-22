@@ -43,12 +43,12 @@
 
 <p align="left"> 📊Tableau projects:</p>
 
-· [Covid Analysis](https://public.tableau.com/app/profile/luisina.ravel/viz/Covid_17137345807210/Dashboard1)
+· [Covid Analysis](https://public.tableau.com/app/profile/luisina.ravel/viz/Covid_17137345807210/Dashboard1)</br>
 · [Newsfeed Analysis](https://public.tableau.com/app/profile/luisina.ravel/viz/newsfeed_analysis_17001561759600/Dashboard1)
   
 <p align="left"> 🔧SQL projects:</p>
 
-· https://github.com/lravelb/8-Week-SQL-Challenge-Pizza-Runner</br>
-· https://github.com/lravelb/8-Week-SQL-Challenge-Danny-s-Diner
+· [8 Week SQL Challenge - Pizza Runner](https://github.com/lravelb/8-Week-SQL-Challenge-Pizza-Runner)</br>
+· [8 Week SQL Challenge - Danny´s Diner]https://github.com/lravelb/8-Week-SQL-Challenge-Danny-s-Diner
 
 ###
