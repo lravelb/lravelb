@@ -40,9 +40,15 @@
 <p align="left"> 📈Power BI projects:</p>
 
 · prueba
+
+<p align="left"> 📊Tableau projects:</p>
+
+· https://public.tableau.com/app/profile/luisina.ravel/viz/Covid_17137345807210/Dashboard1
+· https://public.tableau.com/app/profile/luisina.ravel/viz/newsfeed_analysis_17001561759600/Dashboard1
   
 <p align="left"> 🔧SQL projects:</p>
 
+· https://github.com/lravelb/8-Week-SQL-Challenge-Pizza-Runner
 · https://github.com/lravelb/8-Week-SQL-Challenge-Danny-s-Diner
 
 ###
