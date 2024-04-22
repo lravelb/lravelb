@@ -43,7 +43,7 @@
 
 <p align="left"> 📊Tableau projects:</p>
 
-· https://public.tableau.com/app/profile/luisina.ravel/viz/Covid_17137345807210/Dashboard1
+· [Covid Analysis](https://public.tableau.com/app/profile/luisina.ravel/viz/Covid_17137345807210/Dashboard1)
 · https://public.tableau.com/app/profile/luisina.ravel/viz/newsfeed_analysis_17001561759600/Dashboard1
   
 <p align="left"> 🔧SQL projects:</p>
