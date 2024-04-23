@@ -28,7 +28,8 @@
 
 <p align="left"> 📈Power BI projects:</p>
 
-· prueba
+· [Car Sales Dahsboard](https://app.powerbi.com/view?r=eyJrIjoiYzQ2MDQwZjEtMmM4MC00ZDE5LWJkMmItNTRhY2I1MDkwNjVjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)</br>
+· [Pizza Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjM1NWIyY2QtNDNjMi00ODY5LTkwNDctMDUyOWI4MzA3ZDlmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 <p align="left"> 📊Tableau projects:</p>
 
