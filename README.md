@@ -51,7 +51,7 @@
 <div align="left">
 
 · [Linkedin](https://www.linkedin.com/in/luisina-ravel-92631a73/)</br>
-· 📧 luisina.ravel@gmail.com
+· luisina.ravel@gmail.com
 
 </div>
 
