@@ -22,17 +22,6 @@
 
 ###
 
-<h2 align="left">You can find me...</h2>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
-
-###
-
 <h2 align="left">My projects</h2>
 
 ###
@@ -52,5 +41,18 @@
 · [8 Week SQL Challenge - Pizza Runner](https://github.com/lravelb/8-Week-SQL-Challenge-Pizza-Runner)</br>
 · [8 Week SQL Challenge - Danny´s Diner](https://github.com/lravelb/8-Week-SQL-Challenge-Danny-s-Diner)</br>
 · [Data 365 - Course conversion](https://github.com/lravelb/Free-to-Paid-Conversion-Rate/tree/main)
+
+###
+
+<h2 align="left">You can find me...</h2>
+
+###
+
+<div align="left">
+
+· [Linkedin](https://www.linkedin.com/in/luisina-ravel-92631a73/)</br>
+· 📧 luisina.ravel@gmail.com
+
+</div>
 
 ###
