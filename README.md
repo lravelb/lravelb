@@ -28,7 +28,8 @@
 
 <p align="left"> 🔧📊Python:</p>
 
-· [London Bikes: data cleaning, formating and visualization](https://github.com/lravelb/London-Bike-Sharing/tree/main)
+· [London Bikes: data cleaning, formating and visualization](https://github.com/lravelb/London-Bike-Sharing/tree/main)</br>
+· [Movies: correlation](https://github.com/lravelb/Movies_correlation-using-Python/tree/main)
 
 <p align="left"> 📈Power BI projects:</p>
 
