@@ -26,6 +26,10 @@
 
 ###
 
+<p align="left"> 🔧📊Python:</p>
+
+· [London Bikes: data cleaning, formating and visualization](https://github.com/lravelb/London-Bike-Sharing/tree/main)
+
 <p align="left"> 📈Power BI projects:</p>
 
 · [Car Sales Dahsboard](https://app.powerbi.com/view?r=eyJrIjoiYzQ2MDQwZjEtMmM4MC00ZDE5LWJkMmItNTRhY2I1MDkwNjVjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)</br>
