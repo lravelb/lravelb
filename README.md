@@ -38,6 +38,7 @@
 
 <p align="left"> 📊Tableau projects:</p>
 
+· [HR Analysis](https://public.tableau.com/app/profile/luisina.ravel/viz/HRDASHBOARD_17176796917240/Overview)</br>
 · [COVID Analysis](https://public.tableau.com/app/profile/luisina.ravel/viz/Covid_17137345807210/Dashboard1)</br>
 · [Newsfeed Analysis](https://public.tableau.com/app/profile/luisina.ravel/viz/newsfeed_analysis_17001561759600/Dashboard1)
   
