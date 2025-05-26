@@ -47,9 +47,6 @@ Supervised Learning • Regression Models • Evaluation Metrics (RMSE, R²) •
 - [**London Bikes**](https://github.com/lravelb/London-Bikes)  
   Time series analysis and predictive modeling on bike sharing data. Includes data formatting and visualization.
 
-- [**Movies Correlation Analysis**](https://github.com/lravelb/Movies)  
-  Analysed correlation between box office variables using heatmaps and pairplots.
-
 ---
 
 ### 📊 Power BI Dashboards
