@@ -8,7 +8,7 @@
 
 🎓 I hold a degree in International Trade, but I discovered a growing passion for data while analysing performance metrics in the tourism industry.  
 🚀 That turning point led me to shift careers and dive into the world of Data and Technology.  
-💡 I'm currently focused on developing technical skills in **Machine Learning and Data Engineering**, aiming to apply them in real-world challenges and grow into an AI-focused role.  
+💡 I'm currently focused on developing technical skills in **Machine Learning and Data Science**, with a strong interest in **AI applications** such as NLP and LLMs. My goal is to apply these tools to solve real-world challenges and continue growing into an AI-driven role.  
 🧠 I'm self-taught, curious, and driven by challenges.  
 📊 I have hands-on experience in data analysis, dashboard design, data cleaning and visualization — now building scalable solutions with Python and SQL.
 
@@ -23,14 +23,12 @@ Power BI • Tableau • Excel • Power Query
 Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
 SQL (MySQL, SQL Server, PostgreSQL)  
 
+**Machine Learning & AI**  
+Supervised Learning • Regression Models • Model Evaluation (RMSE, R²)  
+NLP (TF-IDF, Transformers) • Prompt Engineering (LLMs)  
+
 **Data Engineering (in progress)**  
-DataCamp Track: Data Engineer • ETL Pipelines • Views & Joins in SQL • AWS • Airflow  
-
-**Machine Learning (in progress)**  
-Supervised Learning • Regression Models • Evaluation Metrics (RMSE, R²) • NLP (TF-IDF, Transformers)
-
-**Languages**  
-🇪🇸 Spanish (native) • 🇬🇧 English (intermediate and improving)
+ETL Pipelines • Views & Joins in SQL • AWS • Airflow  
 
 ---
 
@@ -39,13 +37,13 @@ Supervised Learning • Regression Models • Evaluation Metrics (RMSE, R²) •
 ### 🐍 Python & Machine Learning
 
 - [**Hospital Reviews – LLM Sentiment Analysis**](https://github.com/lravelb/hospital-reviews)  
-  Applied Hugging Face Transformers (DistilBERT) and logistic regression to predict sentiment from patient reviews. Includes data cleaning, TF-IDF, and model evaluation.
+  NLP using DistilBERT & logistic regression to classify patient sentiment. Includes TF-IDF, evaluation metrics and comparison of LLM predictions vs baseline.
 
 - [**Patient Satisfaction Analysis**](https://github.com/lravelb/patient-satisfaction-analysis)  
-  Built a Random Forest Classifier to predict satisfaction levels based on hospital service ratings. Includes feature importance and confusion matrix analysis.
+  Random Forest multiclass classification model using hospital service ratings. Highlights feature importance and confusion matrix analysis.
 
 - [**London Bikes**](https://github.com/lravelb/London-Bikes)  
-  Time series analysis and predictive modeling on bike sharing data. Includes data formatting and visualization.
+  Time series analysis and prediction of bike demand using historical rental data.
 
 ---
 
@@ -76,4 +74,4 @@ Supervised Learning • Regression Models • Evaluation Metrics (RMSE, R²) •
 ## 📬 Contact Me
 
 - 📧 luisina.ravel@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/luisina-ravel-92631a73/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/luisina-ravel-92631a73/)
