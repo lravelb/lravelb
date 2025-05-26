@@ -8,7 +8,7 @@
 
 🎓 I hold a degree in International Trade, but I discovered a growing passion for data while analysing performance metrics in the tourism industry.  
 🚀 That turning point led me to shift careers and dive into the world of Data and Technology.  
-💡 I'm currently focused on developing technical skills in **Machine Learning and Data Engineering**, aiming to apply them in real-world challenges and grow into an AI-focused role.
+💡 I'm currently focused on developing technical skills in **Machine Learning and Data Engineering**, aiming to apply them in real-world challenges and grow into an AI-focused role.  
 🧠 I'm self-taught, curious, and driven by challenges.  
 📊 I have hands-on experience in data analysis, dashboard design, data cleaning and visualization — now building scalable solutions with Python and SQL.
 
