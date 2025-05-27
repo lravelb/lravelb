@@ -16,19 +16,15 @@
 
 ## 🛠️ Skills
 
-**Data & Analytics Tools**  
-Power BI • Tableau • Excel • Power Query  
+**Languages & Tools**  
+Python (Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib)  
+SQL (MySQL, PostgreSQL, SQL Server) • Power BI • Tableau • Excel • Power Query
 
-**Programming & Scripting**  
-Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
-SQL (MySQL, SQL Server, PostgreSQL)  
+**Machine Learning & NLP**  
+Supervised Learning • Regression Models • Model Evaluation (ROC, F1, RMSE, R²)  
+TF-IDF • Transformers (DistilBERT) • Prompt Engineering (LLMs)
 
-**Machine Learning & AI**  
-Supervised Learning • Regression Models • Model Evaluation (RMSE, R²)  
-NLP (TF-IDF, Transformers) • Prompt Engineering (LLMs)  
-
-**Data Engineering (in progress)**  
-ETL Pipelines • Views & Joins in SQL • AWS • Airflow  
+_Currently focused on Machine Learning and NLP with Python (DataCamp – ML Scientist Track)_
 
 ---
 
