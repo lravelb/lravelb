@@ -38,7 +38,7 @@ _Currently focused on Machine Learning and NLP with Python (DataCamp – ML Scie
 - [**Patient Satisfaction Analysis**](https://github.com/lravelb/patient-satisfaction-analysis)  
   Random Forest multiclass classification model using hospital service ratings. Highlights feature importance and confusion matrix analysis.
 
-- [**London Bikes**](https://github.com/lravelb/London-Bikes)  
+- [**London Bikes**](https://github.com/lravelb/London_bike_sharing)
   Time series analysis and prediction of bike demand using historical rental data.
 
 ---
